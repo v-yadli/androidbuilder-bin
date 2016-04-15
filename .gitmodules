@@ -1,0 +1,9 @@
+[submodule "aarch64-linux-android-4.9"]
+	path = aarch64-linux-android-4.9
+	url = https://android.googlesource.com/platform/prebuilts/gcc/linux-x86/aarch64/aarch64-linux-android-4.9
+[submodule "cm-aarch64-linux-android-4.9"]
+	path = cm-aarch64-linux-android-4.9
+	url = https://github.com/CyanogenMod/android_prebuilts_gcc_linux-x86_aarch64_aarch64-linux-android-4.9.git
+[submodule "mkbootimg_tools"]
+	path = mkbootimg_tools
+	url = https://github.com/xiaolu/mkbootimg_tools.git

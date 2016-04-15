@@ -1,0 +1,2 @@
+#!/bin/bash
+vimdiff ~/NX508J_kernel/$1 ~/android_kernel_zte_msm8994/$1
