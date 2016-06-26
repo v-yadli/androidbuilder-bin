@@ -7,3 +7,6 @@
 [submodule "mkbootimg_tools"]
 	path = mkbootimg_tools
 	url = https://github.com/xiaolu/mkbootimg_tools.git
+[submodule "carliv_mkbootimg_tools"]
+	path = carliv_mkbootimg_tools
+	url = https://github.com/carliv/carliv_mkbootimg_tools.git

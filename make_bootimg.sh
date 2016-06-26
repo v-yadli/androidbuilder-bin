@@ -1,3 +1,3 @@
 #!/bin/bash
-mkboot ../boot_files ../new_boot_5.1.img
-cp ../new_boot_5.1.img ~/host/desktop/
+~/bin/mkbootimg_tools/mkboot ../boot_files ../new_boot.img
+cp ../new_boot.img ~/desktop/
